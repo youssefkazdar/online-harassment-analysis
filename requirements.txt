@@ -1,1 +1,6 @@
-
+pandas
+pymongo
+nltk
+spacy
+textblob
+langdetect
